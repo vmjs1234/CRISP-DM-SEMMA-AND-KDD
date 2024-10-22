@@ -1,6 +1,6 @@
 [Kaggle data set link](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
 
-Research paper uploaded as a file 
+Research paper uploaded as a file [CRISP-DM/Crisp-DM-Research-Paper.pdf]
 
 [Medium Article Link](https://medium.com/@jayasurya141296/analyzing-suicide-data-using-crisp-dm-methodology-a-comprehensive-approach-7d8379bfa035)
 
