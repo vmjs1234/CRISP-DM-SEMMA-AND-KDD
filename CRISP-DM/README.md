@@ -1,3 +1,5 @@
+Analyzing Suicide Data Using CRISP-DM Methodology: A Comprehensive Approach
+
 [Kaggle data set link](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
 
 [Google Collab Link](https://colab.research.google.com/drive/1tTgP0aal8_D4yT_vWG-1ojoJwocixQvU?usp=sharing)
