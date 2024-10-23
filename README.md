@@ -1,0 +1,5 @@
+1)CRISP-DM
+
+2)KDD
+
+3)SEMMA
