@@ -4,7 +4,7 @@ Uncovering Insights from Mobile Device Usage and User Behavior Using the KDD Pro
 
 [Google Collab Link](https://colab.research.google.com/drive/1qS4ruOHniba8gVsqz9OlF0Sln8mK7xLi?usp=sharing)
 
-Research paper uploaded as a file [CRISP-DM/Crisp-DM-Research-Paper.pdf]
+Research paper uploaded as a file [KDD/kdd-finalized.pdf]
 
 [Medium Article Link](https://medium.com/@jayasurya141296/uncovering-insights-from-mobile-device-usage-and-user-behavior-using-the-kdd-process-1f064d03d0a5)
 
